@@ -5,7 +5,7 @@
 
 .container{
     margin: 0 auto;
-    width: 80%;
+    width: 95%;
     max-width: 1000px;  
     height: 75vh;
 }
@@ -34,4 +34,12 @@
     color: aqua;
     background-color: black;
     font-size: 25px;
+    margin-left: 50px;
+    margin-top: 220px;
+    position: fixed;
+}
+
+h6{
+    font-size: 40PX;
+    margin-left: 600px;
 }
