@@ -7,7 +7,7 @@
     margin: 0 auto;
     width: 95%;
     max-width: 1200px;  
-    height: 100vh;
+    height: 85vh;
 }
 
 .grid{
@@ -25,4 +25,12 @@
     font-size: 70PX;
     color: white;
     
+}
+
+.b1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: aqua;
+    font-size: 25px;
 }

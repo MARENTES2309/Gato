@@ -10,4 +10,9 @@ $(document).ready(function(){
          i--;
         }
     });
+
+    $(".b1").click(function(){
+        $(".cuadro").html("");
+        i=0;
+    });
 });
