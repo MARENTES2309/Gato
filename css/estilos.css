@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cuadro{
+    height: 200px;
+    width: 200px;
+}
+
+.color1{
+    background-color: rgb(35, 109, 35);
+}
+
+.cuadro2{
+    height: 200px;
+    width: 200px;
+}
+
+.color2{
+    background-color: rgb(6, 49, 6); 
+}

@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    margin: 0 auto;
+    width: 95%;
+    max-width: 1200px;  
+    height: 100vh;
+}
+
+.grid{
+    display: grid;
+    grid-gap: 5px;/*es para acomodar los espacios*/
+    grid-template-columns: repeat(3,1fr);/*acomo de columnas*/
+    grid-template-rows: repeat(3,1fr);/*cuantas filas*/
+}
+
+.cuadro{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    line-height:3;
+    font-size: 70PX;
+    color: white;
+    
+}
